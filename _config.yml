@@ -16,9 +16,9 @@ minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon
 
 # Site Settings
 locale: "ko-KR"
-title: "개발은 재미써 😝"
+title: "진지한 개발 블로그"
 title_separator: "|"
-subtitle: "개발을 재밌게 하려고 합니다!"
+# subtitle: ""
 name: "규식코"
 description: "규식코의 개발 블로그입니다."
 url: "https://koyusik91.github.io"
