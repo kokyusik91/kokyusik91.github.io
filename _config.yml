@@ -12,27 +12,27 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin: "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: 'neon' # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "ko-KR"
-title: "진지한 개발 블로그"
-title_separator: "|"
+locale: 'ko-KR'
+title: '진지한 개발 블로그'
+title_separator: '|'
 # subtitle: ""
-name: "규식코"
-description: "규식코의 개발 블로그입니다."
-url: "https://koyusik91.github.io"
+name: '규식코'
+description: '규식코의 개발 블로그입니다.'
+url: 'https://koyusik91.github.io'
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo: "/assets/images/avatar2.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo: '/assets/images/avatar2.png' # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: true #: false # true, false (default)
 words_per_minute: 200
 comments:
-  provider: "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
+  provider: 'disqus' # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
-    shortname: "jamsilcrop"
+    shortname: 'jamsilcrop'
   discourse:
     server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -75,7 +75,7 @@ google:
 # SEO Related
 google_site_verification:
 bing_site_verification:
-naver_site_verification: "35eb7883a51f900bb5b20630322019285536875c"
+naver_site_verification: '35eb7883a51f900bb5b20630322019285536875c'
 yandex_site_verification:
 baidu_site_verification:
 
@@ -96,67 +96,67 @@ social:
 
 # Analytics
 analytics:
-  provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider: 'google-gtag' # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "G-PZ53E7EPLX"
+    tracking_id: 'G-PZ53E7EPLX'
     anonymize_ip: false # true, false (default)
 
 # Site Author
 author:
-  name: "규식코"
+  name: '규식코'
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "I am FE-Developer"
-  location: "South Korea"
+  bio: 'I am FE-Developer'
+  location: 'South Korea'
   email:
   links:
-    - label: "E-mail"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:kokyusik91@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: 'E-mail'
+      icon: 'fas fa-fw fa-envelope-square'
+      url: 'mailto:kokyusik91@gmail.com'
+    - label: 'Website'
+      icon: 'fas fa-fw fa-link'
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: 'Twitter'
+      icon: 'fab fa-fw fa-twitter-square'
       # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - label: 'Facebook'
+      icon: 'fab fa-fw fa-facebook-square'
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kokyusik91"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/kyu_siki/"
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/kokyusik91'
+    - label: 'Instagram'
+      icon: 'fab fa-fw fa-instagram'
+      url: 'https://www.instagram.com/kyu_siki/'
 
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    - label: 'Twitter'
+      icon: 'fab fa-fw fa-twitter-square'
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
+    - label: 'Facebook'
+      icon: 'fab fa-fw fa-facebook-square'
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/kokyusik91"
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: "http://property-dev.dgdr.io:9999/kks91"
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/kokyusik91'
+    - label: 'GitLab'
+      icon: 'fab fa-fw fa-gitlab'
+      url: 'http://property-dev.dgdr.io:9999/kks91'
+    - label: 'Bitbucket'
+      icon: 'fab fa-fw fa-bitbucket'
       # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/kyu_siki/"
+    - label: 'Instagram'
+      icon: 'fab fa-fw fa-instagram'
+      url: 'https://www.instagram.com/kyu_siki/'
 
 # Reading Files
 include:
   - .htaccess
   - _pages
 exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
+  - '*.sublime-project'
+  - '*.sublime-workspace'
   - vendor
   - .asset-cache
   - .bundle
@@ -184,8 +184,8 @@ exclude:
 keep_files:
   - .git
   - .svn
-encoding: "utf-8"
-markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+encoding: 'utf-8'
+markdown_ext: 'markdown,mkdown,mkdn,mkd,md'
 
 # Conversion
 markdown: kramdown
@@ -271,7 +271,7 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: ''
       type: posts
     values:
       layout: single
@@ -282,4 +282,4 @@ defaults:
       related: true
       show_date: true
 
-date_format: "%Y-%m-%d"
+date_format: '%Y-%m-%d'
