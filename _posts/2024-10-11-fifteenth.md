@@ -2,7 +2,7 @@
 layout: single
 title: '개발자에가 왜?라고 물어보며 개발해야하는 이유'
 categories: story
-tags:
+tags: frontend
 author_profile: false
 sidebar:
   nav: 'docs'
