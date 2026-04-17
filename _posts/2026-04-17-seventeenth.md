@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "새로운 공간으로 이사했습니다 → kyuniverse.com"
+title: "새로운 공간으로 이사했습니다 → kyu-niverse.com"
 categories: story
 tags: blog
 author_profile: false
@@ -12,7 +12,7 @@ sidebar:
 
 오랜만에 글을 쓰게 되었다. 그동안 많은 일들이 있었고, 결국 블로그를 새로운 공간으로 옮기기로 결정했다.
 
-👉🏻 **새로운 블로그 주소: [https://kyuniverse.com](https://kyuniverse.com)**
+👉🏻 **새로운 블로그 주소: [https://kyu-niverse.com/](https://kyu-niverse.com/)**
 
 ## 왜 옮기게 되었는가 🤔
 
